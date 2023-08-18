@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 $config['base_url'] = 'http://localhost/totem/';
-
+/*ya po mati, siempre pasa algo!!!*/
 /*
 |--------------------------------------------------------------------------
 | Index File
